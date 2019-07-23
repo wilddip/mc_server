@@ -4,5 +4,12 @@
   "main": "server.js",
   "author": "John Wilddip <wilddip@gmail.com>",
   "license": "MIT",
-  "repository": "https://api.glitch.com/git/superb-tennis"
+  "repository": "https://api.glitch.com/git/superb-tennis",
+  "dependencies": {
+    "flying-squid": "^1.1.2",
+    "flying-squid-essentials": "^2.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
 }
