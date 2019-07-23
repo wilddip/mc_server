@@ -1,0 +1,8 @@
+{
+  "name": "mc-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "John Wilddip <wilddip@gmail.com>",
+  "license": "MIT",
+  "repository": "https://api.glitch.com/git/superb-tennis"
+}
